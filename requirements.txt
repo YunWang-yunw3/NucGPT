@@ -1,0 +1,10 @@
+langchain
+transformers
+torch
+faiss-cpu
+tiktoken
+PyPDF2
+llama-index
+rwkv
+numpy
+rwkv
